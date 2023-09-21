@@ -3,8 +3,13 @@
 import Image from "next/image";
 import { MagnifyingGlassIcon, UserCircleIcon } from "@heroicons/react/24/solid";
 import Avatar from "react-avatar";
+import { useBoardStore } from "@/store/BoardStore";
 
 export default function Header() {
+  const [searchString, setSearchString] = useBoardStore((state) => [
+    state.searchString,
+    state.setSearchString,
+  ]);
   return (
     <header>
       <div className="absolute top-0 left-0 w-full h-96 bg-gradient-to-br from-[#7346acff] to-[#cd4eb2ff] rounded-md filter blur-3xl opacity-50 -z-50"></div>
@@ -23,7 +28,10 @@ export default function Header() {
               type="text"
               placeholder="Search"
               className="flex-1 outline-none p-2"
+              value={searchString}
+              onChange={(e) => setSearchString(e.target.value)}
             />
+     
             <button type="submit" hidden>
               Search
             </button>

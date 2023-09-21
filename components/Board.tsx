@@ -52,13 +52,16 @@ export default function Board() {
       updateTodoInDB(removed, board_destination[0]);
     }
   };
+  {
+    let t = Array.from(board.columns);
+  }
 
   return (
     <DragDropContext onDragEnd={handleOnDragEnd}>
       <Droppable droppableId="board" direction="horizontal" type="column">
         {(provided) => (
           <div
-            className={`grid grid-cols-1 md:grid-cols-3 gap-5 max-w-7xl mw-auto`}
+            className={`grid grid-cols-1 md:grid-cols-3 gap-5 max-w-7xl mw-auto `}
             {...provided.droppableProps}
             ref={provided.innerRef}
           >
