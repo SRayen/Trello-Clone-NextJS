@@ -13,7 +13,7 @@
 
 ## Overview :
 
-This is a clone application for Trello. This has been built for learning purpose.
+This is a clone application for Trello. This has been built for learning purposes.
 
 ## Demo :
 
