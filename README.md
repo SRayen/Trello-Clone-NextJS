@@ -1,4 +1,4 @@
-[![Watch the video](https://github.com/SRayen/Trello-Clone-NextJS/assets/13922445/140e5cb6-d3a9-4e0c-bd39-316968a1acb3)](https://drive.google.com/file/d/1oqSZwFHLX2IUvKXnq7JmT9nrPwLxcHZ8/view)
+[![Watch the video](https://github-production-user-asset-6210df.s3.amazonaws.com/13922445/270660142-140e5cb6-d3a9-4e0c-bd39-316968a1acb3.png)](https://drive.google.com/file/d/1oqSZwFHLX2IUvKXnq7JmT9nrPwLxcHZ8/view)
 
 ## Overview
 
