@@ -24,7 +24,7 @@ This is a clone application for Trello. This has been built for learning purpose
 - Ability to create/delete a todo
 - Move (Drag and Drop) todos
 - Search for todos
-- Openai will summarize your tasks (you must insert a valid  OPENAI_API_KEY for this feature)
+- OpenAi will summarize your tasks (you must insert a valid  OPENAI_API_KEY for this feature)
 
 ## Tech stacks :
 
