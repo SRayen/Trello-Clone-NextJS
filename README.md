@@ -1,3 +1,15 @@
 
 
-![gifOfHomePage](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndkdzJzY2ZuenkxeGswcWg1M2ZxaWZ0aXRkbm11eDM3NWUwc242bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iPqVITGKPwbdmtK1Nh/giphy.gif)
+## Overview
+
+This is a clone application for trello. This has been built for learning purpose.
+
+### [Demo](https://trello-clone-next-js-two.vercel.app/) 
+
+## Features 🤩
+
+- Ability to create/delete a todo
+- Move (Drag and Drop) todos
+- Search for todos
+- Openai will Summarize your tasks (you must insert a valid  OPENAI_API_KEY for this feature)
+  
