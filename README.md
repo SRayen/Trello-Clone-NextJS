@@ -33,7 +33,7 @@ This is a clone application for Trello. This has been built for learning purpose
   <img src="https://user-images.githubusercontent.com/2182637/53611918-54c1ff80-3c24-11e9-9917-66ac3cef513d.png" width="68">
   <img src="https://github.com/pmndrs/zustand/blob/main/bear.jpg?raw=true" width="88">
   <img src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" width="48">
-   <img src="https://headlessui.dev/_next/static/media/social-card.3e0b1ed1aac3c1db62a0a1e7023d250b.jpg" width="88">
+   <img src="https://repository-images.githubusercontent.com/295992065/4bd52200-0043-11eb-9711-359a3854d4dc" width="95">
    <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--AL5kwX_O--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/h11ky1kbcdyaf0dgcl2o.png" width="120">
     
 
